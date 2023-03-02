@@ -1,0 +1,26 @@
+.btn{
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    transition: 0.3s all;
+    cursor: pointer;
+}
+.del-btn{
+    background-color: red;
+}
+.edit-btn{
+   background-color: blue;
+}
+.btns-container{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+
+}
+.btn:hover{
+    opacity: 0.4;
+
+}

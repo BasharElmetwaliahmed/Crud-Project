@@ -1,0 +1,7 @@
+.list-items{
+    display: flex;
+    flex-direction: column;
+}
+.list-container{
+    padding-top: 60px;
+}

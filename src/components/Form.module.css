@@ -1,0 +1,13 @@
+.form{
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+    width: 100%;
+}
+.input{
+    padding: 7px;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+    width: 40%;
+}

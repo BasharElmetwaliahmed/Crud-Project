@@ -1,0 +1,17 @@
+.form-edit{
+    width: 100%;
+        width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    
+}
+.form-edit button{
+    background-color: blue;
+    color: white;
+    border:none;
+    
+}
+.form-edit button:hover{
+    opacity: 0.3;
+}

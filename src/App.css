@@ -1,0 +1,10 @@
+.App{
+    background-color: #00337C;
+    border-radius: 15px;
+    padding: 20px 0px;
+    margin-top: 10px;
+}
+.App h1{
+    color: white;
+    text-align: center;
+}
